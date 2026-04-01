@@ -5,7 +5,7 @@
   "website": "https://homeassistant.slatra.ch",
   "model": "https://raw.githubusercontent.com/biogas9/slatra-wake-word-models/main/hey_bob.tflite",
   "trained_languages": [
-    "en"
+    "de"
   ],
   "version": 2,
   "micro": {
