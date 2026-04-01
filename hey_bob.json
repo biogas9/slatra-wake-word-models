@@ -3,7 +3,7 @@
   "wake_word": "Hey Bob",
   "author": "Sandro (slatra)",
   "website": "https://homeassistant.slatra.ch",
-  "model": "https://raw.githubusercontent.com/slatra/slatra-wake-word-models/main/hey_bob.tflite",
+  "model": "https://raw.githubusercontent.com/biogas9/slatra-wake-word-models/main/hey_bob.tflite",
   "trained_languages": [
     "en"
   ],
